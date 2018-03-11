@@ -30,4 +30,3 @@ def do_sth():
                 index = letters.index(letter) - SHIFT
                 encoded = encoded + letters[index]
     print encoded
-
