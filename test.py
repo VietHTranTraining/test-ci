@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-docstring
+do sth test
 """
 
 import string

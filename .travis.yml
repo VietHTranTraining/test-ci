@@ -1,4 +1,4 @@
-language: python
+language: C 
 python:
     - "2.7"
 install:
